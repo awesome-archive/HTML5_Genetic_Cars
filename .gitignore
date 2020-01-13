@@ -1,3 +1,5 @@
+/node_modules
+
 #################
 ## Eclipse
 #################
@@ -15,6 +17,8 @@ local.properties
 .classpath
 .settings/
 .loadpath
+main.js
+index-test.html
 
 # External tool builders
 .externalToolBuilders/
@@ -46,7 +50,6 @@ local.properties
 [Dd]ebug/
 [Rr]elease/
 x64/
-build/
 [Bb]in/
 [Oo]bj/
 
